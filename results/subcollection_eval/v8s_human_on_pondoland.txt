@@ -1,0 +1,36 @@
+Ultralytics 8.4.37 🚀 Python-3.13.7 torch-2.11.0+cu130 CUDA:0 (NVIDIA GeForce RTX 4070, 11875MiB)
+Model summary (fused): 73 layers, 11,125,971 parameters, 0 gradients, 28.4 GFLOPs
+[34m[1mval: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 7754.9±1373.6 MB/s, size: 134.8 KB)
+
+[K[34m[1mval: [0mScanning /mnt/LinuxBackup/jo/datasets/pondoland_hbb/test/labels.cache... 400 images, 88 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 400/400 167.8Mit/s 0.0s
+
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 2% ──────────── 1/50 2.3it/s 0.1s<21.5s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 4% ──────────── 2/50 4.5it/s 0.2s<10.7s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 6% ╸─────────── 3/50 6.0it/s 0.3s<7.8s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 8% ╸─────────── 4/50 6.8it/s 0.5s<6.8s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 14% ━╸────────── 7/50 10.7it/s 0.6s<4.0s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 18% ━━────────── 9/50 13.5it/s 0.7s<3.0s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 24% ━━╸───────── 12/50 16.6it/s 0.8s<2.3s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 30% ━━━╸──────── 15/50 18.2it/s 1.0s<1.9s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 36% ━━━━──────── 18/50 19.0it/s 1.1s<1.7s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 42% ━━━━━─────── 21/50 19.9it/s 1.2s<1.5s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 48% ━━━━━╸────── 24/50 20.4it/s 1.4s<1.3s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 54% ━━━━━━────── 27/50 20.5it/s 1.5s<1.1s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 60% ━━━━━━━───── 30/50 20.8it/s 1.7s<1.0s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 64% ━━━━━━━╸──── 32/50 20.5it/s 1.8s<0.9s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 68% ━━━━━━━━──── 34/50 20.1it/s 1.9s<0.8s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 72% ━━━━━━━━╸─── 36/50 19.7it/s 2.0s<0.7s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 76% ━━━━━━━━━─── 38/50 19.8it/s 2.1s<0.6s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 80% ━━━━━━━━━╸── 40/50 18.3it/s 2.2s<0.5s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 84% ━━━━━━━━━━── 42/50 18.5it/s 2.3s<0.4s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 88% ━━━━━━━━━━╸─ 44/50 18.4it/s 2.4s<0.3s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 92% ━━━━━━━━━━━─ 46/50 18.6it/s 2.5s<0.2s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 96% ━━━━━━━━━━━╸ 48/50 18.9it/s 2.6s<0.1s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 50/50 18.3it/s 2.7s
+                   all        400       2197      0.937      0.892      0.949      0.708
+Speed: 0.1ms preprocess, 1.6ms inference, 0.0ms loss, 0.2ms postprocess per image
+Results saved to [1m/mnt/LinuxBackup/jo/scripts/runs/detect/val13[0m
+RESULT_mAP50: 0.9488
+RESULT_mAP50-95: 0.7081
+RESULT_Precision: 0.9374
+RESULT_Recall: 0.8925

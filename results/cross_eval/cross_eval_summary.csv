@@ -1,0 +1,16 @@
+model,eval_set,mAP50,mAP50-95,Precision,Recall
+v8s_human,human_test,0.9049,0.6277,0.9185,0.8525
+v8s_gdtiny,human_test,0.7709,0.4368,0.8508,0.6849
+v8s_gdtiny,gdtiny_test,0.9246,0.8137,0.8863,0.8593
+v8s_gdbase,human_test,0.7769,0.4306,0.8379,0.7177
+v8s_gdbase,gdbase_test,0.9293,0.7990,0.8922,0.8657
+v11x_human,human_test,0.9172,0.6587,0.9282,0.8707
+v11x_gdtiny,human_test,0.7741,0.4419,0.8424,0.6953
+v11x_gdtiny,gdtiny_test,0.9325,0.8399,0.9023,0.8556
+v11x_gdbase,human_test,0.7841,0.4413,0.8533,0.7170
+v11x_gdbase,gdbase_test,0.9396,0.8256,0.9110,0.8688
+rfdetr_human,human_test,0.8912,0.6328,0.8862,0.9075
+rfdetr_gdtiny,human_test,0.6787,0.3930,0.7898,0.7091
+rfdetr_gdtiny,gdtiny_test,0.9141,0.8376,0.7898,0.9380
+rfdetr_gdbase,human_test,0.6854,0.3898,0.8193,0.7189
+rfdetr_gdbase,gdbase_test,0.9240,0.8218,0.8068,0.9438

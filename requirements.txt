@@ -1,0 +1,12 @@
+matplotlib==3.10.8
+numpy==2.4.4
+opencv-python==4.13.0.92
+pandas==2.3.3
+pillow==12.2.0
+rfdetr==1.7.1
+supervision==0.28.0
+torch==2.11.0
+torchmetrics==1.9.0
+torchvision==0.26.0
+transformers==5.5.3
+ultralytics==8.4.37

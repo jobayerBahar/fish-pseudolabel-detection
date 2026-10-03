@@ -1,0 +1,239 @@
+nohup: ignoring input
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:45:50] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:45:50] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:45:50] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:45:50] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:45:53] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+human chunk 0-500: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:46:17] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:46:17] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:46:18] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:46:18] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:46:18] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+human chunk 500-1000: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:46:40] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:46:40] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:46:40] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:46:40] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:46:40] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+human chunk 1000-1500: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:47:02] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:47:02] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:47:02] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:47:02] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:47:03] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+human chunk 1500-2000: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:47:25] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:47:25] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:47:25] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:47:25] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:47:26] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+human chunk 2000-2500: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:47:49] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:47:49] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:47:49] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:47:49] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:47:50] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+human chunk 2500-3000: 421 images
+['rfdetr_human', 'deepfish', 2921, 0.4081, 0.207, 0.623, 0.6874, 0.3683, 0.19]
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:48:18] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:48:18] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:48:19] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:48:19] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:48:21] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdtiny chunk 0-500: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:48:44] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:48:44] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:48:44] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:48:44] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:48:44] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdtiny chunk 500-1000: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:49:07] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:49:07] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:49:08] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:49:08] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:49:08] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdtiny chunk 1000-1500: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:49:29] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:49:29] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:49:31] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:49:31] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:49:31] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdtiny chunk 1500-2000: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:49:52] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:49:52] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:49:53] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:49:53] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:49:53] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdtiny chunk 2000-2500: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:50:15] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:50:15] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:50:15] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:50:15] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:50:16] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdtiny chunk 2500-3000: 421 images
+['rfdetr_gdtiny', 'deepfish', 2921, 0.4297, 0.2422, 0.4545, 0.7161, 0.4126, 0.2336]
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:50:43] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:50:43] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:50:43] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:50:43] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:50:46] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdbase chunk 0-500: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:51:07] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:51:07] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:51:08] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:51:08] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:51:08] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdbase chunk 500-1000: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:51:30] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:51:30] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:51:30] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:51:30] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:51:31] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdbase chunk 1000-1500: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:51:53] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:51:53] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:51:54] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:51:54] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:51:54] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdbase chunk 1500-2000: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:52:16] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:52:16] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:52:16] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:52:16] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:52:16] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdbase chunk 2000-2500: 500 images
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+/home/jo/fish_env/lib/python3.13/site-packages/deprecate/proxy.py:168: FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+  stream(msg)
+[2026-09-25 11:52:38] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:52:38] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:52:38] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:52:38] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:52:38] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+gdbase chunk 2500-3000: 421 images
+['rfdetr_gdbase', 'deepfish', 2921, 0.4192, 0.2338, 0.4836, 0.7068, 0.4013, 0.2256]
+ALL DONE

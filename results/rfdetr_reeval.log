@@ -1,0 +1,42 @@
+nohup: ignoring input
+FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+[2026-09-25 11:33:26] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:33:26] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:33:27] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:33:27] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:33:29] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
+['rfdetr_human', 'human_test', 1256, 0.9199, 0.6522, 0.8862, 0.9075, 0.8912, 0.6328]
+['rfdetr_human', 'aldabra', 191, 0.8002, 0.4796, 0.708, 0.8143, 0.7523, 0.4546]
+['rfdetr_human', 'tanganyika', 267, 0.9502, 0.6538, 0.9005, 0.9376, 0.9252, 0.6412]
+['rfdetr_human', 'pondoland', 400, 0.9573, 0.734, 0.8957, 0.9376, 0.9236, 0.7104]
+['rfdetr_human', 'protea', 398, 0.9113, 0.6643, 0.9306, 0.8989, 0.8851, 0.6434]
+[2026-09-25 11:35:29] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:35:29] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:35:29] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:35:29] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:35:29] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+['rfdetr_gdtiny', 'human_test', 1256, 0.7684, 0.4408, 0.7898, 0.7091, 0.6787, 0.393]
+['rfdetr_gdtiny', 'gdtiny_test', 1256, 0.9531, 0.8727, 0.7898, 0.938, 0.9141, 0.8376]
+['rfdetr_gdtiny', 'aldabra', 191, 0.5477, 0.2445, 0.6562, 0.4829, 0.4444, 0.1975]
+['rfdetr_gdtiny', 'tanganyika', 267, 0.7956, 0.3978, 0.8314, 0.7274, 0.6998, 0.3532]
+['rfdetr_gdtiny', 'pondoland', 400, 0.7681, 0.5338, 0.6965, 0.7342, 0.6896, 0.4839]
+['rfdetr_gdtiny', 'protea', 398, 0.8098, 0.504, 0.8323, 0.7496, 0.7377, 0.4528]
+[2026-09-25 11:38:07] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:38:07] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:38:07] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:38:07] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:38:07] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+['rfdetr_gdbase', 'human_test', 1256, 0.7772, 0.4371, 0.8193, 0.7189, 0.6854, 0.3898]
+['rfdetr_gdbase', 'gdbase_test', 1256, 0.9567, 0.8544, 0.8068, 0.9438, 0.924, 0.8218]
+['rfdetr_gdbase', 'aldabra', 191, 0.573, 0.2425, 0.7052, 0.5022, 0.4624, 0.1958]
+['rfdetr_gdbase', 'tanganyika', 267, 0.7961, 0.3708, 0.8566, 0.7283, 0.6992, 0.3296]
+['rfdetr_gdbase', 'pondoland', 400, 0.8121, 0.5717, 0.7638, 0.7874, 0.738, 0.5222]
+['rfdetr_gdbase', 'protea', 398, 0.8102, 0.5005, 0.8429, 0.7466, 0.7243, 0.4466]
+[2026-09-25 11:40:45] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:40:45] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-09-25 11:40:45] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-09-25 11:40:45] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-09-25 11:40:45] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().

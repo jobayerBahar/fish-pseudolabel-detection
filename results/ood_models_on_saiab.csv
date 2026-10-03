@@ -1,0 +1,4 @@
+model,mAP50,mAP50-95,Precision,Recall
+joint_training,0.9174,0.649,0.9352,0.87
+finetune_human,0.3845,0.201,0.6096,0.429
+finetune_gdtiny,0.402,0.2059,0.6041,0.4374

@@ -1,0 +1,2 @@
+model,mAP50,mAP50-95,Precision,Recall
+deepfish_only,0.3631,0.1818,0.5536,0.3912

@@ -1,0 +1,5 @@
+setting,run_dir,init_weights,optimizer,best_epoch,mAP50,mAP50-95,Precision,Recall
+deepfish_only,v11x_deepfish_retrain,yolo11x.pt (COCO),AdamW,97,0.9728,0.6549,0.9471,0.9407
+joint_training,v11x_merged,yolo11x.pt (COCO),MuSGD,100,0.9790,0.6706,0.9503,0.9498
+finetune_human,v11x_finetune,v11x_human best.pt,AdamW,100,0.9772,0.6596,0.9440,0.9462
+finetune_gdtiny,v11x_finetune_gdtiny,v11x_gdtiny best.pt,AdamW,100,0.9749,0.6610,0.9453,0.9477

@@ -1,0 +1,15 @@
+RESULT_mAP50: 0.6998
+RESULT_mAP50-95: 0.3532
+RESULT_Precision: 0.8314
+RESULT_Recall: 0.7274
+
+--- STDERR ---
+FutureWarning: The `RFDETRBase` was deprecated since v1.7.0. It will be removed in v2.0.0.
+FutureWarning: The `RFDETRLargeDeprecated` was deprecated since v1.7.0. It will be removed in v2.0.0.
+FutureWarning: The `RFDETRSegPreview` was deprecated since v1.7.0. It will be removed in v2.0.0.
+[2026-08-25 12:35:12] [WARNING] rf-detr - Using a different number of positional encodings than DINOv2, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-08-25 12:35:12] [WARNING] rf-detr - Using patch size 16 instead of 14, which means we're not loading DINOv2 backbone weights. This is not a problem if finetuning a pretrained RF-DETR model.
+[2026-08-25 12:35:12] [WARNING] rf-detr - Checkpoint has 1 classes but model is configured for 90. Using checkpoint class count (1). Pass num_classes=1 to suppress this warning.
+[2026-08-25 12:35:12] [WARNING] rf-detr - load_pretrain_weights: args.num_queries absent; inferred ckpt_num_queries=300 from tensor rows 3900 ÷ ckpt_group_detr=13.
+[2026-08-25 12:35:12] [WARNING] rf-detr - Model is not optimized for inference. Latency may be higher than expected. You can optimize the model for inference by calling model.optimize_for_inference().
+`use_return_dict` is deprecated! Use `return_dict` instead!
