@@ -9,12 +9,12 @@ run_if_needed() {
     local done_marker=$3
 
     if [ -f "$done_marker" ]; then
-        echo "$(basename $script) already complete — skipping ✅"
+        echo "$(basename $script) already complete — skipping"
     else
         echo "Running $(basename $script)..."
         python3 $script > $log 2>&1
         if [ $? -eq 0 ]; then touch $done_marker; fi
-        echo "$(basename $script) done ✅"
+        echo "$(basename $script) done"
     fi
 }
 
@@ -32,4 +32,4 @@ run_if_needed $SCRIPTS/train_rfdetr_human.py   $LOGS/rfdetr_human.log   $RUNS/rf
 run_if_needed $SCRIPTS/train_rfdetr_gdtiny.py  $LOGS/rfdetr_gdtiny.log  $RUNS/rfdetr_gdtiny.done
 run_if_needed $SCRIPTS/train_rfdetr_gdbase.py  $LOGS/rfdetr_gdbase.log  $RUNS/rfdetr_gdbase.done
 
-echo "All training complete ✅"
+echo "All training complete"

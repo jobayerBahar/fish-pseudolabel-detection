@@ -12,7 +12,7 @@ print(f"Using: {device}")
 gdino_id  = "IDEA-Research/grounding-dino-base"
 processor = AutoProcessor.from_pretrained(gdino_id)
 gdino     = AutoModelForZeroShotObjectDetection.from_pretrained(gdino_id).to(device)
-print("GD-base loaded ✅")
+print("GD-base loaded")
 
 BOX_THRESHOLD = 0.3
 TEXT_PROMPT   = "fish."
@@ -87,7 +87,7 @@ names: ['Fish']
 (out_base / "data.yaml").write_text(yaml)
 
 print(f"\n{'='*50}")
-print(f"Done ✅")
+print(f"Done")
 print(f"Total images processed : {total_images}")
 print(f"Total boxes generated  : {total_boxes}")
 print(f"Avg boxes per image    : {total_boxes/total_images:.2f}")

@@ -9,7 +9,7 @@ print(f"Using: {device}")
 gdino_id = "IDEA-Research/grounding-dino-base"
 processor = AutoProcessor.from_pretrained(gdino_id)
 model = AutoModelForZeroShotObjectDetection.from_pretrained(gdino_id).to(device)
-print("Model loaded ✅")
+print("Model loaded")
 
 img_dir  = Path("/home/jo/experiment2/fish_dataset/test/images")
 lbl_dir  = Path("/home/jo/experiment2/fish_dataset/test/labels")
@@ -69,4 +69,4 @@ for img_path in image_paths:
     out_path = out_dir / (img_path.stem + ".jpg")
     combined.save(out_path)
 
-print(f"\nDone ✅ — saved to {out_dir}")
+print(f"\nDone — saved to {out_dir}")

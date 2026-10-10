@@ -4,7 +4,7 @@ from pathlib import Path
 
 human_model = YOLO("/home/jo/experiment2/runs/human_labeled_run2/weights/best.pt")
 dino_model  = YOLO("/home/jo/experiment2/runs/dino_labeled_run2/weights/best.pt")
-print("Models loaded ✅")
+print("Models loaded")
 
 img_dir = Path("/home/jo/experiment2/fish_dataset/test/images")
 out_dir = Path("/mnt/LinuxBackup/jo/visualisations")
@@ -46,4 +46,4 @@ for img_path in image_paths:
     out_path = out_dir / (img_path.stem + ".jpg")
     combined.save(out_path)
 
-print(f"\nDone ✅ — saved to {out_dir}")
+print(f"\nDone — saved to {out_dir}")

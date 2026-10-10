@@ -39,4 +39,4 @@ for split in splits:
     n = len(list((out / split / "images").glob("*")))
     print(f"{split}: {n} images")
 
-print("Done ✅")
+print("Done")
