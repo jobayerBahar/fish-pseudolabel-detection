@@ -15,7 +15,7 @@ The project tests whether underwater fish detectors trained on boxes produced au
 | Human boxes matched by a GD-tiny box (IoU ≥ 0.5, validation, threshold 0.3) | 64% (precision 85%) |
 | mAP50:95 on human test labels, human-trained | 0.63–0.66 |
 | mAP50:95 on human test labels, GD-trained | 0.43–0.44 |
-| Retention (GD-trained ÷ human-trained), mAP50:95 / mAP50 | 67–70% / 84–86% |
+| Retention (GD-trained ÷ human-trained), mAP50:95 / mAP50 | 67–70% / 83–86% |
 | Retention by sub-collection (mAP50:95) | 49% (Aldabra) to 75% (Pondoland) |
 
 Full results are in `results/` and in the thesis.
