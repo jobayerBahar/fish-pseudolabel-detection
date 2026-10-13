@@ -80,3 +80,7 @@ Scripts use absolute paths from the original server (`/mnt/LinuxBackup/jo/...`).
 ## Citation
 
 J. H. Bahar, *Reducing Annotation Dependency for Underwater Fish Detection Through Open-Vocabulary Auto-Annotation*, BSc Honours thesis, Rhodes University, 2026.
+
+## Acknowledgements
+
+This work is based on the research supported in part by the National Research Foundation of South Africa (Ref Number PMDS250726348286).
