@@ -84,3 +84,10 @@ J. H. Bahar, *Reducing Annotation Dependency for Underwater Fish Detection Throu
 ## Acknowledgements
 
 This work is based on the research supported in part by the National Research Foundation of South Africa (Ref Number PMDS250726348286).
+## Run settings and extra scripts
+
+- `configs/runs/<run>/`: the exact settings (`args.yaml`) and per-epoch results (`results.csv`, or `log.txt` for RF-DETR) of every training run, including the DeepFish and joint runs. The joint model was trained from the command line, so its `args.yaml` is its full record.
+- `requirements-lock.txt`: exact package versions of the training environment (`pip freeze`).
+- `scripts/eval/`: `threshold_sweep.py` (validation threshold sweep), `check_tables.py` (checks thesis tables against raw results), `eval_all.py`.
+- `scripts/figures/`: scripts for the presentation and website figures.
+- `scripts/make_split_lists.sh`: writes the image lists in `splits/`.
